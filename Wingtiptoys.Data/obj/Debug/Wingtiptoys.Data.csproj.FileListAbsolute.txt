@@ -1,0 +1,9 @@
+C:\Users\14379\source\repos\Wingtiptoys\Wingtiptoys.Data\bin\Debug\Wingtiptoys.Data.dll.config
+C:\Users\14379\source\repos\Wingtiptoys\Wingtiptoys.Data\bin\Debug\Wingtiptoys.Data.dll
+C:\Users\14379\source\repos\Wingtiptoys\Wingtiptoys.Data\bin\Debug\Wingtiptoys.Data.pdb
+C:\Users\14379\source\repos\Wingtiptoys\Wingtiptoys.Data\bin\Debug\EntityFramework.dll
+C:\Users\14379\source\repos\Wingtiptoys\Wingtiptoys.Data\bin\Debug\EntityFramework.xml
+C:\Users\14379\source\repos\Wingtiptoys\Wingtiptoys.Data\obj\Debug\Wingtiptoys.Data.csproj.CoreCompileInputs.cache
+C:\Users\14379\source\repos\Wingtiptoys\Wingtiptoys.Data\obj\Debug\Wingtiptoys.Data.csproj.CopyComplete
+C:\Users\14379\source\repos\Wingtiptoys\Wingtiptoys.Data\obj\Debug\Wingtiptoys.Data.dll
+C:\Users\14379\source\repos\Wingtiptoys\Wingtiptoys.Data\obj\Debug\Wingtiptoys.Data.pdb

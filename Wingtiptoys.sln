@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wingtiptoys.Service", "Wingtiptoys.Service\Wingtiptoys.Service.csproj", "{7B1641DC-020F-4D3C-BE85-705FD6042E21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wingtiptoys.Api", "Wingtiptoys.Api\Wingtiptoys.Api.csproj", "{592D9BA8-87B3-48C5-93A6-4FB1562A02B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wingtiptoys.Data", "Wingtiptoys.Data\Wingtiptoys.Data.csproj", "{33E69EA9-9A6F-46B6-A243-08D2AB98FFD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wingtiptoy.Web", "Wingtiptoy.Web\Wingtiptoy.Web.csproj", "{F43D9C5E-1029-4CBD-9631-43CFB7AFEF29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wingtiptoy.Web.Tests", "Wingtiptoy.Web.Tests\Wingtiptoy.Web.Tests.csproj", "{D4CE1674-239D-40B2-AFAF-3510221F124F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0245D9D2-FCF3-4541-8714-19F8AECD627E}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B1641DC-020F-4D3C-BE85-705FD6042E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1641DC-020F-4D3C-BE85-705FD6042E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1641DC-020F-4D3C-BE85-705FD6042E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1641DC-020F-4D3C-BE85-705FD6042E21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592D9BA8-87B3-48C5-93A6-4FB1562A02B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592D9BA8-87B3-48C5-93A6-4FB1562A02B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592D9BA8-87B3-48C5-93A6-4FB1562A02B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592D9BA8-87B3-48C5-93A6-4FB1562A02B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E69EA9-9A6F-46B6-A243-08D2AB98FFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E69EA9-9A6F-46B6-A243-08D2AB98FFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E69EA9-9A6F-46B6-A243-08D2AB98FFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E69EA9-9A6F-46B6-A243-08D2AB98FFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43D9C5E-1029-4CBD-9631-43CFB7AFEF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43D9C5E-1029-4CBD-9631-43CFB7AFEF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43D9C5E-1029-4CBD-9631-43CFB7AFEF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43D9C5E-1029-4CBD-9631-43CFB7AFEF29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4CE1674-239D-40B2-AFAF-3510221F124F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4CE1674-239D-40B2-AFAF-3510221F124F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4CE1674-239D-40B2-AFAF-3510221F124F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4CE1674-239D-40B2-AFAF-3510221F124F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2F1224F-1DC4-4A5A-97CF-3BE1C748E964}
+	EndGlobalSection
+EndGlobal
